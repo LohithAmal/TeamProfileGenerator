@@ -7,15 +7,15 @@ This is a Team Profile Generator build using technologies such as NODE J.S, JAVA
 ## Table of Contents
 [Installation](#installation)
 
-[Usage](#usage)
+[Usage](#Usage)
 
 [Credits](#credits)
 
-[License](#license)
+[License](#License)
 
-[Tests](#tests)
+[Tests](#Tests)
 
-[Questions](#questions)
+
 
 ## Installation
 Download the repo=>install inquirer => run the app.js by typeing node app.js
