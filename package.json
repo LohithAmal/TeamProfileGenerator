@@ -1,0 +1,31 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "This is a Team Profile Generator build using technologies such as NODE J.S, JAVASCRIPT, HTML, CSS, BOOTSTRAP.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LohithAmal/TeamProfileGenerator.git"
+  },
+  "keywords": [
+    "profilegenerator",
+    "node",
+    "j.s",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Amal Lohith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LohithAmal/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/LohithAmal/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.0"
+  }
+}
