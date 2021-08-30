@@ -27,6 +27,10 @@ Once exited HTML file will generate will all your inputed employee informations.
 clICK HERE TO SEE DEMO VIDEO [Demo](https://youtu.be/8waDtyKSTW4)
 ## Credits
 
+https://github.com/malloryfaria/
+https://kqarlos.github.io/
+https://github.com/andysanchez726
+
 ## License
 MIT
 ## Tests
