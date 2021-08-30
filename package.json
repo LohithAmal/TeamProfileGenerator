@@ -4,7 +4,7 @@
   "description": "This is a Team Profile Generator build using technologies such as NODE J.S, JAVASCRIPT, HTML, CSS, BOOTSTRAP.",
   "main": "app.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
