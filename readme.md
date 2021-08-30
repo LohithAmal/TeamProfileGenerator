@@ -1,7 +1,7 @@
 
 # Team Profile Generator
-
-
+ 
+![](images/image.JPG)
 ## Description
 This is a Team Profile Generator build using technologies such as NODE J.S, JAVASCRIPT, HTML, CSS, BOOTSTRAP.
 ## Table of Contents
